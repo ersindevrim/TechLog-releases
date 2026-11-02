@@ -1,16 +1,15 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.0",
   "released": "2026-11-02",
   "notes": [
-    "Make used now works on the loaded aircraft once its engines are off.",
-    "PMDG registration: MSFS 2024 liveries are read, and you can set a tail number by hand.",
-    "Wide-bodies have their own company use sectors. The A350-900 has eight main tyres.",
-    "TechLog now tells you when an update is out and can install it."
+    "Airframe groups: sort your fleet into your own groups, with registration rules.",
+    "Set the service level of a whole group at once.",
+    "Make used and Change age now bring the deferred items and findings of a used aircraft."
   ],
-  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.0.1",
+  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.1.0",
   "installer": {
-    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.0.1/TechLog-Setup-v1.0.1.exe",
-    "sha256": "89E19C98B0D6C54F081876D611727B4A8F10FF38A85D0D70596AF3AB4A720D04",
-    "size": 168162689
+    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.1.0/TechLog-Setup-v1.1.0.exe",
+    "sha256": "8A9C243BB4251F7121B31F9709049C6D2679633850A962801935C4C6FC072C49",
+    "size": 168191361
   }
 }
