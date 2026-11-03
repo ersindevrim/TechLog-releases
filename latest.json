@@ -1,15 +1,15 @@
 {
-  "version": "1.1.0",
-  "released": "2026-11-02",
+  "version": "1.2.0",
+  "released": "2026-11-03",
   "notes": [
-    "Airframe groups: sort your fleet into your own groups, with registration rules.",
-    "Set the service level of a whole group at once.",
-    "Make used and Change age now bring the deferred items and findings of a used aircraft."
+    "Move an airframe's state to another registration, on the Airframes page.",
+    "The PMDG's registration now comes from the livery's own name and files first.",
+    "TechLog no longer sets the PMDG's options file read-only; it keeps the SDK lines on itself."
   ],
-  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.1.0",
+  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.2.0",
   "installer": {
-    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.1.0/TechLog-Setup-v1.1.0.exe",
-    "sha256": "8A9C243BB4251F7121B31F9709049C6D2679633850A962801935C4C6FC072C49",
-    "size": 168191361
+    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.2.0/TechLog-Setup-v1.2.0.exe",
+    "sha256": "532CD78C504D13C9FE3AEF7854E0E70FCA9BA588BFE011B875E469BF8524DE56",
+    "size": 168197505
   }
 }
