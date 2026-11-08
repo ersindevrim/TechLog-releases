@@ -1,17 +1,13 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "released": "2026-11-08",
   "notes": [
-    "Undo an event or void a whole flight when a fault was not the pilot's.",
-    "Company use flies real routes, one flight per sector, with a level for each airframe.",
-    "Airport names on any PC: more navigation data is read, with the sim's own airport list as the fallback.",
-    "The window's Settings screen is rebuilt; the tech log page's Settings is now called Options.",
-    "Phone and tablet access shows an IP address and is stricter."
+    "The setup no longer offers the virtual airline hosting-files download, which could stall it. The files are still in Settings, Virtual airlines."
   ],
-  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.3.0",
+  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.3.1",
   "installer": {
-    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.3.0/TechLog-Setup-v1.3.0.exe",
-    "sha256": "EC38D79F79E5972AFE98834E155352A5D6BD23243CB32209A7A01614554B59F7",
-    "size": 168513409
+    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.3.1/TechLog-Setup-v1.3.1.exe",
+    "sha256": "45F86F6B4AFBC75A5945FE700FD4046307E158C76A422E2A8B4652D652E41E1B",
+    "size": 168516481
   }
 }
