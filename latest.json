@@ -1,13 +1,16 @@
 {
-  "version": "1.3.1",
+  "version": "1.3.2",
   "released": "2026-11-08",
   "notes": [
-    "The setup no longer offers the virtual airline hosting-files download, which could stall it. The files are still in Settings, Virtual airlines."
+    "The Airframes page is a table: order by any column, resize columns, a red, orange or green state for each aircraft, and Walkaround, Maintenance and Fix on every line.",
+    "Flights flown by the airline now have takeoff, landing, fuel, a timeline and a score.",
+    "PMDG 777: the engine (GE90, PW4000 or Trent 800) now comes from the livery.",
+    "An engine wash no longer leaves the EGT margin low item to come straight back."
   ],
-  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.3.1",
+  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.3.2",
   "installer": {
-    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.3.1/TechLog-Setup-v1.3.1.exe",
-    "sha256": "45F86F6B4AFBC75A5945FE700FD4046307E158C76A422E2A8B4652D652E41E1B",
-    "size": 168516481
+    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.3.2/TechLog-Setup-v1.3.2.exe",
+    "sha256": "580FE7F46F7F924725F9559D6C3B5218BB16D211FEB0872DFE89DA28DBD0F230",
+    "size": 168552321
   }
 }
