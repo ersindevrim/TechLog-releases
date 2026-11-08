@@ -1,15 +1,17 @@
 {
-  "version": "1.2.0",
-  "released": "2026-11-03",
+  "version": "1.3.0",
+  "released": "2026-11-08",
   "notes": [
-    "Move an airframe's state to another registration, on the Airframes page.",
-    "The PMDG's registration now comes from the livery's own name and files first.",
-    "TechLog no longer sets the PMDG's options file read-only; it keeps the SDK lines on itself."
+    "Undo an event or void a whole flight when a fault was not the pilot's.",
+    "Company use flies real routes, one flight per sector, with a level for each airframe.",
+    "Airport names on any PC: more navigation data is read, with the sim's own airport list as the fallback.",
+    "The window's Settings screen is rebuilt; the tech log page's Settings is now called Options.",
+    "Phone and tablet access shows an IP address and is stricter."
   ],
-  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.2.0",
+  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.3.0",
   "installer": {
-    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.2.0/TechLog-Setup-v1.2.0.exe",
-    "sha256": "532CD78C504D13C9FE3AEF7854E0E70FCA9BA588BFE011B875E469BF8524DE56",
-    "size": 168197505
+    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.3.0/TechLog-Setup-v1.3.0.exe",
+    "sha256": "EC38D79F79E5972AFE98834E155352A5D6BD23243CB32209A7A01614554B59F7",
+    "size": 168513409
   }
 }
