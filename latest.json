@@ -1,17 +1,15 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "released": "2026-11-14",
   "notes": [
-    "Adds the iFly 737-8 MAX (beta): 110 failures from part condition through its own EFB program, your own tablet failures in the tech log, Performance from its own calculator, cockpit per airframe.",
-    "Adds the BlueBird 757-200 (alpha): tech log, wear, real MMEL numbers and cockpit profiles. No failure is set in the aircraft yet.",
-    "The iniBuilds A350 and A340-300 are out of beta. Fixed: loading the A350 could start its random fuel leak.",
-    "Virtual airlines: Admins are back, check records and engine and APU counters travel with each plane, and FSL, A340-300 and A380 planes can be added.",
-    "Fixed: a tablet or browser on your network could get 403 errors, and could not change anything, when TechLog ran behind its window."
+    "Virtual airlines: a Maintenance button does all due checks, repairs all, services all and replaces worn parts on every ticked plane, or on the plane open for service.",
+    "With Realistic or Fast maintenance times you choose each time: finish at once, or keep the plane in maintenance until the work would be done.",
+    "Rules changes by the Owner or an Admin take effect at once instead of waiting 24 hours."
   ],
-  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.5.0",
+  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.5.1",
   "installer": {
-    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.5.0/TechLog-Setup-v1.5.0.exe",
-    "sha256": "D6991525F1090CAFBD869C5A880FE045231AD22DAC7DC2F7D24F4A9F4C48E424",
-    "size": 168869249
+    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.5.1/TechLog-Setup-v1.5.1.exe",
+    "sha256": "3FA5DAD4A6264C46745582053F8472231A10072568F645295242145A2C269E0B",
+    "size": 168888193
   }
 }
