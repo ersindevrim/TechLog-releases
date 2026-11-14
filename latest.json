@@ -1,17 +1,17 @@
 {
-  "version": "1.4.0",
-  "released": "2026-11-13",
+  "version": "1.5.0",
+  "released": "2026-11-14",
   "notes": [
-    "Adds the iniBuilds A380 (beta): four engines, 22 wheels, 110 failures set from the condition of its parts, and water and fluids that follow the aircraft.",
-    "A380 Performance: take-off from the aircraft's own calculation, landing from its own table, Send to FMS (needs the sim's Developer Mode).",
-    "Virtual airlines: a rebuilt Airline page with used planes that carry their history, bookings, routes, roles, messages and flight reports.",
-    "Fixes a false FUEL LEAK SUSPECTED on the iniBuilds A350, a used airline plane filling with defects after its first flight, and a plane that could not be handed back.",
-    "Wide-body cabins now keep catering, water and cleanliness for about 15 hours of flying."
+    "Adds the iFly 737-8 MAX (beta): 110 failures from part condition through its own EFB program, your own tablet failures in the tech log, Performance from its own calculator, cockpit per airframe.",
+    "Adds the BlueBird 757-200 (alpha): tech log, wear, real MMEL numbers and cockpit profiles. No failure is set in the aircraft yet.",
+    "The iniBuilds A350 and A340-300 are out of beta. Fixed: loading the A350 could start its random fuel leak.",
+    "Virtual airlines: Admins are back, check records and engine and APU counters travel with each plane, and FSL, A340-300 and A380 planes can be added.",
+    "Fixed: a tablet or browser on your network could get 403 errors, and could not change anything, when TechLog ran behind its window."
   ],
-  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.4.0",
+  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.5.0",
   "installer": {
-    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.4.0/TechLog-Setup-v1.4.0.exe",
-    "sha256": "B11DD3D0E79FE7B63B0B1BCA2DCF8B504FA29C7A81709D418CF8B9529DC1CE5A",
-    "size": 168711041
+    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.5.0/TechLog-Setup-v1.5.0.exe",
+    "sha256": "D6991525F1090CAFBD869C5A880FE045231AD22DAC7DC2F7D24F4A9F4C48E424",
+    "size": 168869249
   }
 }
