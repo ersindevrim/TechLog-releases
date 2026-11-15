@@ -1,15 +1,14 @@
 {
-  "version": "1.5.1",
-  "released": "2026-11-14",
+  "version": "1.5.2",
+  "released": "2026-11-15",
   "notes": [
-    "Virtual airlines: a Maintenance button does all due checks, repairs all, services all and replaces worn parts on every ticked plane, or on the plane open for service.",
-    "With Realistic or Fast maintenance times you choose each time: finish at once, or keep the plane in maintenance until the work would be done.",
-    "Rules changes by the Owner or an Admin take effect at once instead of waiting 24 hours."
+    "Virtual airlines: an airline plane's open and deferred items now go into the aircraft, as on your own airframes. Before, most of them were only listed in the tech log.",
+    "Planes already in an airline get their failures the next time they are loaded on 1.5.2. No host update is needed for this."
   ],
-  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.5.1",
+  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.5.2",
   "installer": {
-    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.5.1/TechLog-Setup-v1.5.1.exe",
-    "sha256": "3FA5DAD4A6264C46745582053F8472231A10072568F645295242145A2C269E0B",
-    "size": 168888193
+    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.5.2/TechLog-Setup-v1.5.2.exe",
+    "sha256": "A43452869743F7849F6AB6A74C8FAD5C025830EF482E0C4909DE75411AF6DCD3",
+    "size": 168888705
   }
 }
