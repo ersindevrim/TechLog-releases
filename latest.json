@@ -1,14 +1,16 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.3",
   "released": "2026-11-15",
   "notes": [
-    "Virtual airlines: an airline plane's open and deferred items now go into the aircraft, as on your own airframes. Before, most of them were only listed in the tech log.",
-    "Planes already in an airline get their failures the next time they are loaded on 1.5.2. No host update is needed for this."
+    "Tablets, phones and the FSLabs EFB on an external device no longer get 403: a device that can reach TechLog can use all of it.",
+    "The TechLog tile in the FSLabs EFB now finds TechLog from an external tablet.",
+    "Network access in Settings still decides whether TechLog listens beyond this PC.",
+    "Virtual airlines: an airline plane's open and deferred items go into the aircraft (from 1.5.2)."
   ],
-  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.5.2",
+  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.5.3",
   "installer": {
-    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.5.2/TechLog-Setup-v1.5.2.exe",
-    "sha256": "A43452869743F7849F6AB6A74C8FAD5C025830EF482E0C4909DE75411AF6DCD3",
-    "size": 168888705
+    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.5.3/TechLog-Setup-v1.5.3.exe",
+    "sha256": "FDA25DEFA551EE2836E79F7CE19E20BCC0CA84DCCF4F3E9DAD02A5E1486F93BF",
+    "size": 168888193
   }
 }
