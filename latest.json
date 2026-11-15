@@ -1,16 +1,15 @@
-{
-  "version": "1.5.3",
-  "released": "2026-11-15",
-  "notes": [
-    "Tablets, phones and the FSLabs EFB on an external device no longer get 403: a device that can reach TechLog can use all of it.",
-    "The TechLog tile in the FSLabs EFB now finds TechLog from an external tablet.",
-    "Network access in Settings still decides whether TechLog listens beyond this PC.",
-    "Virtual airlines: an airline plane's open and deferred items go into the aircraft (from 1.5.2)."
-  ],
-  "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.5.3",
-  "installer": {
-    "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.5.3/TechLog-Setup-v1.5.3.exe",
-    "sha256": "FDA25DEFA551EE2836E79F7CE19E20BCC0CA84DCCF4F3E9DAD02A5E1486F93BF",
-    "size": 168888193
-  }
+﻿{
+    "version":  "1.5.4",
+    "released":  "2026-11-15",
+    "notes":  [
+                  "Steam no longer says \"This game is already running\" after the sim closes with TechLog still open: TechLog now runs on its own when the sim starts it.",
+                  "\"Close TechLog when the sim closes\" works as before.",
+                  "Tablets, phones and the FSLabs EFB on an external device no longer get 403 (from 1.5.3)."
+              ],
+    "page":  "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.5.4",
+    "installer":  {
+                      "url":  "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.5.4/TechLog-Setup-v1.5.4.exe",
+                      "sha256":  "59988E6BF9F0E35281595B28362EA386EF3DA8437B625168097FDF7C96D51F6E",
+                      "size":  168892801
+                  }
 }
