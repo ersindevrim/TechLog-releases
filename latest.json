@@ -1,15 +1,17 @@
 {
-    "version":  "1.5.4",
-    "released":  "2026-11-15",
+    "version":  "2.0.0",
+    "released":  "2026-11-16",
     "notes":  [
-                  "Steam no longer says \"This game is already running\" after the sim closes with TechLog still open: TechLog now runs on its own when the sim starts it.",
-                  "\"Close TechLog when the sim closes\" works as before.",
-                  "Tablets, phones and the FSLabs EFB on an external device no longer get 403 (from 1.5.3)."
+                  "New aircraft (beta): FlyByWire A32NX, FlyByWire A380X, Headwind A330-900neo and TFDi MD-11.",
+                  "Cockpit profiles are saved per airframe, and can be copied between airframes or shared by the whole type.",
+                  "The changelog lists, aircraft by aircraft, what can and cannot be failed in the aircraft itself.",
+                  "The window opens where you left it.",
+                  "The Fenix EFB button now uses port 8183; press Fix in Settings if your Fenix tablet was patched before."
               ],
-    "page":  "https://github.com/ersindevrim/TechLog-releases/releases/tag/v1.5.4",
+    "page":  "https://github.com/ersindevrim/TechLog-releases/releases/tag/v2.0.0",
     "installer":  {
-                      "url":  "https://github.com/ersindevrim/TechLog-releases/releases/download/v1.5.4/TechLog-Setup-v1.5.4.exe",
-                      "sha256":  "59988E6BF9F0E35281595B28362EA386EF3DA8437B625168097FDF7C96D51F6E",
-                      "size":  168892801
+                      "url":  "https://github.com/ersindevrim/TechLog-releases/releases/download/v2.0.0/TechLog-Setup-v2.0.0.exe",
+                      "sha256":  "6161E739E8277088591189DB298C630048A90F4FDEA7E42E64F518D3AC8E63FD",
+                      "size":  169191297
                   }
 }
