@@ -1,17 +1,13 @@
 {
-    "version":  "2.0.0",
+    "version":  "2.0.1",
     "released":  "2026-11-16",
     "notes":  [
-                  "New aircraft (beta): FlyByWire A32NX, FlyByWire A380X, Headwind A330-900neo and TFDi MD-11.",
-                  "Cockpit profiles are saved per airframe, and can be copied between airframes or shared by the whole type.",
-                  "The changelog lists, aircraft by aircraft, what can and cannot be failed in the aircraft itself.",
-                  "The window opens where you left it.",
-                  "The Fenix EFB button now uses port 8183; press Fix in Settings if your Fenix tablet was patched before."
+                  "The MD-11 and A32NX MELs now use the real item numbers, repair categories and counts of the FAA MMEL (credited)."
               ],
-    "page":  "https://github.com/ersindevrim/TechLog-releases/releases/tag/v2.0.0",
+    "page":  "https://github.com/ersindevrim/TechLog-releases/releases/tag/v2.0.1",
     "installer":  {
-                      "url":  "https://github.com/ersindevrim/TechLog-releases/releases/download/v2.0.0/TechLog-Setup-v2.0.0.exe",
-                      "sha256":  "6161E739E8277088591189DB298C630048A90F4FDEA7E42E64F518D3AC8E63FD",
-                      "size":  169191297
+                      "url":  "https://github.com/ersindevrim/TechLog-releases/releases/download/v2.0.1/TechLog-Setup-v2.0.1.exe",
+                      "sha256":  "2A6FA31FA1D4E87D9EA72DC8EF39BB8170FB966DE1274B4D15AB35E7CFED6067",
+                      "size":  169212801
                   }
 }
