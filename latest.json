@@ -1,13 +1,17 @@
 {
-    "version":  "2.0.1",
-    "released":  "2026-11-16",
+    "version":  "2.1.0",
+    "released":  "2026-11-17",
     "notes":  [
-                  "The MD-11 and A32NX MELs now use the real item numbers, repair categories and counts of the FAA MMEL (credited)."
+                  "Open another airframe in maintenance mode while your flight keeps recording.",
+                  "Maintenance and Fix work on other airframes while you fly.",
+                  "The update banner shows download progress.",
+                  "Freighters no longer collect cabin items.",
+                  "Virtual airline items keep their failure; Owners should update the host."
               ],
-    "page":  "https://github.com/ersindevrim/TechLog-releases/releases/tag/v2.0.1",
+    "page":  "https://github.com/ersindevrim/TechLog-releases/releases/tag/v2.1.0",
     "installer":  {
-                      "url":  "https://github.com/ersindevrim/TechLog-releases/releases/download/v2.0.1/TechLog-Setup-v2.0.1.exe",
-                      "sha256":  "2A6FA31FA1D4E87D9EA72DC8EF39BB8170FB966DE1274B4D15AB35E7CFED6067",
-                      "size":  169212801
+                      "url":  "https://github.com/ersindevrim/TechLog-releases/releases/download/v2.1.0/TechLog-Setup-v2.1.0.exe",
+                      "sha256":  "4E7B05CADCA52C002BA5830F4071A479257AF6B4DB5B4AD9427BD0282BA030EB",
+                      "size":  169225089
                   }
 }
