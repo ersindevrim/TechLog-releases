@@ -1,17 +1,16 @@
 {
-    "version":  "2.1.0",
-    "released":  "2026-11-17",
-    "notes":  [
-                  "Open another airframe in maintenance mode while your flight keeps recording.",
-                  "Maintenance and Fix work on other airframes while you fly.",
-                  "The update banner shows download progress.",
-                  "Freighters no longer collect cabin items.",
-                  "Virtual airline items keep their failure; Owners should update the host."
-              ],
-    "page":  "https://github.com/ersindevrim/TechLog-releases/releases/tag/v2.1.0",
-    "installer":  {
-                      "url":  "https://github.com/ersindevrim/TechLog-releases/releases/download/v2.1.0/TechLog-Setup-v2.1.0.exe",
-                      "sha256":  "4E7B05CADCA52C002BA5830F4071A479257AF6B4DB5B4AD9427BD0282BA030EB",
-                      "size":  169225089
-                  }
+    "version": "2.1.1",
+    "released": "2026-11-18",
+    "notes": [
+        "Virtual airlines: Return plane works again when the airline still shows a plane held by you; Clock out hands it back.",
+        "PMDG: TechLog leaves the CDU alone while GSX loads or fuels.",
+        "SimBrief comparison: less fuel or time than planned is no longer flagged.",
+        "PMDG 777: flap speeds from the cockpit placard; N1 exceedance flagged at 110 percent."
+    ],
+    "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v2.1.1",
+    "installer": {
+        "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v2.1.1/TechLog-Setup-v2.1.1.exe",
+        "sha256": "01903CB4903B146CEF58775788925AED0E0D84111FB892BF732C5A8691CAD296",
+        "size": 169230209
+    }
 }
