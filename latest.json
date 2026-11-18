@@ -1,16 +1,14 @@
 {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "released": "2026-11-18",
     "notes": [
-        "Virtual airlines: Return plane works again when the airline still shows a plane held by you; Clock out hands it back.",
-        "PMDG: TechLog leaves the CDU alone while GSX loads or fuels.",
-        "SimBrief comparison: less fuel or time than planned is no longer flagged.",
-        "PMDG 777: flap speeds from the cockpit placard; N1 exceedance flagged at 110 percent."
+        "Virtual airlines: check-out works again for 777 pilots. TechLog and the airline host no longer refuse a plane over the catalogue fingerprint.",
+        "Airline hosts from 2.1.1 or earlier work with 2.1.2 without an update."
     ],
-    "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v2.1.1",
+    "page": "https://github.com/ersindevrim/TechLog-releases/releases/tag/v2.1.2",
     "installer": {
-        "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v2.1.1/TechLog-Setup-v2.1.1.exe",
-        "sha256": "01903CB4903B146CEF58775788925AED0E0D84111FB892BF732C5A8691CAD296",
-        "size": 169230209
+        "url": "https://github.com/ersindevrim/TechLog-releases/releases/download/v2.1.2/TechLog-Setup-v2.1.2.exe",
+        "sha256": "C066B563BEA302CB1FBC6288B1BF60F876374F3227C9B23C65F488C0F644CE86",
+        "size": 169232257
     }
 }
